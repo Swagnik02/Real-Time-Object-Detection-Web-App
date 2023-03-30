@@ -1,6 +1,6 @@
 # Real Time Object Detection Web App (using TensorFlow and ReactJS)
 
-## quick_guide:
+## Quick_guide:
 Install NodeJS 16.2.0 </br>
 Windows 64-bit Installer: https://nodejs.org/dist/v16.2.0/node-v16.2.0-x64.msi </br>
 
