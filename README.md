@@ -1,6 +1,8 @@
 # Real Time Object Detection Web App (using TensorFlow and ReactJS)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## quick_guide:
+To start the web app with few clicks i have added two `scripts install_dependecies.bat` and `server.bat`. Just run them one after the other in this order:  </br>`1. scripts install_dependecies.bat` </br> `2. server.bat`
 
 ## Available Scripts
 In the project directory, you can run:
