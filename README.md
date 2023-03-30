@@ -1,7 +1,5 @@
 # Real Time Object Detection Web App (using TensorFlow and ReactJS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## quick_guide:
 Install NodeJS 16.2.0 </br>
 Windows 64-bit Installer: https://nodejs.org/dist/v16.2.0/node-v16.2.0-x64.msi </br>
@@ -23,3 +21,6 @@ You will also see any lint errors in the console.
 
 ### Word File Report 
 Url: https://docs.google.com/document/d/1EZEq0B0qiED8i_qEE2twWgKaFoBmvFlz2NFcb4Dt9IY/edit?usp=sharing
+
+### credits
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
